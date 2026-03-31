@@ -61,3 +61,10 @@ This repository documents five interconnected tasks exploring what digital liter
 The central theme across all tasks: **awareness does not automatically produce competent behaviour**. Knowing that phishing exists does not prevent falling for it. Knowing email etiquette does not mean you apply it under pressure. Digital literacy requires deliberate, conscious practice.
 
 This repository is not just a submission — it is the foundation of a real digital portfolio.
+
+---
+## Google Form Link
+
+```
+https://docs.google.com/forms/d/e/1FAIpQLSda70v4d_htGZ1vF0P__3UsSg_dPox9MbyMxRIJumnEn3Nn8Q/viewform?usp=header
+```
